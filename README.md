@@ -1,2 +1,2 @@
 # YASH.CODE
-first repositary
+first repositaryy
